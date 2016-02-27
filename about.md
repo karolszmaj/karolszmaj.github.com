@@ -2,11 +2,10 @@
 layout: page
 title: About
 ---
+Cześć!
+Jestem informatycznym nerdem, który swój rozwój skupił na programowaniu. Od kilku lat ściśle związany z rozwiązanami firmy Microsoft. Implementuję aplikację mobilnę dla systemów WindowsRT/WindowsPhone od samego początku powstania platformy. 
+Pasjonat rozwiązań mobilnych, architektury oraz czystego kodu. Umiejętny wybór narzędzi jest dla mnie bardzo ważny dlatego nie ograniczam się tylko i wyłącznie do języka C#. 
 
-Hello.
-
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
-
-**Just write thing that matters..**
-
-Enjoy!
+Umiejętności: XAML Development, C#, F#, Swift, Network i wiele innych
+Praca: CTO w Whalla Labs, Lider zespołu Windows Phone
+Pomoc: Z racji, iż nasza firma Whalla Labs wyrosła na podstawie projektów związanych z platformą Windows Phone, oferujemy szkolenia oraz audyty kodu. Jesteśmy zainteresowani dużymi projektami, które wymagają dobrze przemyślanej architektury.
